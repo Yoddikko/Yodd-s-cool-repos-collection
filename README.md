@@ -58,7 +58,7 @@ A collection of useful and cool repos I found
 - [mirarr](https://github.com/mirarr-app/mirarr): A cross-platform mirroring application. 🏴‍☠️ 🔍 
 
 ## Extensions
-- [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip sponsors in YouTube videos.
+- [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip sponsors in YouTube videos. 🏆
 
 ## API
 ### Gaming APIs
