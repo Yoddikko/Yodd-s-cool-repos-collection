@@ -1,5 +1,6 @@
 # Yodd's Cool Repos Collection
-A collection of useful and cool repos, sites and channels I found
+A collection of useful and cool repos, sites and channels I found.
+Since I'm italian the repo is also mainly focused on italian centered media.
 
 ## Legend
 - 🏆 = Tested and personally recommended
