@@ -3,62 +3,59 @@ A collection of useful and cool repos I found
 
 # Awesome Repositories Collection
 
-## Index
+## Indice
 - [iOS](#ios)
-  - [Placeholder 1](#ios-placeholder-1)
-  - [Placeholder 2](#ios-placeholder-2)
-  - [Placeholder 3](#ios-placeholder-3)
+  - [Sezione 1](#ios-sezione-1)
+    - [Sottosezione 1.1](#ios-sottosezione-11)
+    - [Sottosezione 1.2](#ios-sottosezione-12)
+  - [Sezione 2](#ios-sezione-2)
+    - [Sottosezione 2.1](#ios-sottosezione-21)
+    - [Sottosezione 2.2](#ios-sottosezione-22)
 - [Android](#android)
-  - [Placeholder 1](#android-placeholder-1)
-  - [Placeholder 2](#android-placeholder-2)
-  - [Placeholder 3](#android-placeholder-3)
+  - [Sezione 1](#android-sezione-1)
+    - [Sottosezione 1.1](#android-sottosezione-11)
+    - [Sottosezione 1.2](#android-sottosezione-12)
+  - [Sezione 2](#android-sezione-2)
+    - [Sottosezione 2.1](#android-sottosezione-21)
+    - [Sottosezione 2.2](#android-sottosezione-22)
 - [Windows](#windows)
-  - [Placeholder 1](#windows-placeholder-1)
-  - [Placeholder 2](#windows-placeholder-2)
-  - [Placeholder 3](#windows-placeholder-3)
+  - [Sezione 1](#windows-sezione-1)
+    - [Sottosezione 1.1](#windows-sottosezione-11)
+    - [Sottosezione 1.2](#windows-sottosezione-12)
+  - [Sezione 2](#windows-sezione-2)
+    - [Sottosezione 2.1](#windows-sottosezione-21)
+    - [Sottosezione 2.2](#windows-sottosezione-22)
 - [Linux](#linux)
-  - [Placeholder 1](#linux-placeholder-1)
-  - [Placeholder 2](#linux-placeholder-2)
-  - [Placeholder 3](#linux-placeholder-3)
+  - [Sezione 1](#linux-sezione-1)
+    - [Sottosezione 1.1](#linux-sottosezione-11)
+    - [Sottosezione 1.2](#linux-sottosezione-12)
+  - [Sezione 2](#linux-sezione-2)
+    - [Sottosezione 2.1](#linux-sottosezione-21)
+    - [Sottosezione 2.2](#linux-sottosezione-22)
 
 ---
 
 ## iOS
-### iOS Placeholder 1
-Descrizione del repository 1 per iOS...
+### iOS Sezione 1
+#### Youtube IPAs 
+- **Repo 1**: 
+- **Repo 2**: 
 
-### iOS Placeholder 2
-Descrizione del repository 2 per iOS...
+#### iOS Sottosezione 1.2
+- **Repo 1**: Descrizione della repo 1...
+- **Repo 2**: Descrizione della repo 2...
 
-### iOS Placeholder 3
-Descrizione del repository 3 per iOS...
+### iOS Sezione 2
+#### iOS Sottosezione 2.1
+- **Repo 1**: Descrizione della repo 1...
+- **Repo 2**: Descrizione della repo 2...
+
+#### iOS Sottosezione 2.2
+- **Repo 1**: Descrizione della repo 1...
+- **Repo 2**: Descrizione della repo 2...
 
 ## Android
-### Android Placeholder 1
-Descrizione del repository 1 per Android...
-
-### Android Placeholder 2
-Descrizione del repository 2 per Android...
-
-### Android Placeholder 3
-Descrizione del repository 3 per Android...
-
-## Windows
-### Windows Placeholder 1
-Descrizione del repository 1 per Windows...
-
-### Windows Placeholder 2
-Descrizione del repository 2 per Windows...
-
-### Windows Placeholder 3
-Descrizione del repository 3 per Windows...
-
-## Linux
-### Linux Placeholder 1
-Descrizione del repository 1 per Linux...
-
-### Linux Placeholder 2
-Descrizione del repository 2 per Linux...
-
-### Linux Placeholder 3
-Descrizione del repository 3 per Linux...
+### Android Sezione 1
+#### Android Sottosezione 1.1
+- **Repo 1**: Descrizione della repo 1...
+- **Repo 2**: Descrizione della repo 2..
