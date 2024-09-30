@@ -58,6 +58,7 @@ A collection of useful and cool repos I found
 - [uYouEnhanced](https://github.com/arichornloverALT/uYouEnhanced): Enhanced version of the YouTube app. 🏆
 - [uYou-for-YouTube OG](https://github.com/MiRO92/uYou-for-YouTube-OG): Original version of the uYou app. 🏆
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): A modified version of the uYou app.
+- [uYouPlus & uYouEnhanced IPA Files](https://t.me/uyouplusipa): YouPlus (or uYou+), uYouEnhanced & YTMusicUltimate IPAs <img src="assets/telegram.svg" alt="Telegram" width="16" height="16"> 📦
 - [YouTubeRebornPlus (Not updated anymore)](https://github.com/arichornlover/YouTubeRebornPlus): An older YouTube mod, no longer maintained. 🛑
 - [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus): A lightweight version of the YouTube app.
 
