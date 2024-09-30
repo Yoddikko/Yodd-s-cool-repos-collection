@@ -1,5 +1,5 @@
 # Yodd's Cool Repos Collection
-A collection of useful and cool repos I found
+A collection of useful and cool repos, channels and channels I found
 
 ## Legend
 - 🏆 = Tested and personally recommended
