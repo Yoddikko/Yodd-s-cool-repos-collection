@@ -75,7 +75,7 @@ A collection of useful and cool repos, channels and channels I found
 
 ## Media Download
 ### Books
-- [Anna’s Archive](https://annas-archive.org): A free, non-profit and open-source catalog of books, papers, and other documents. 🏴‍☠️
+- [Anna’s Archive](https://annas-archive.org): A free, non-profit and open-source catalog of books, papers, and other documents. 🏴‍☠️ 🏆
 - [Z-Library](https://singlelogin.re): One of the largest online libraries, providing free access to books and academic papers. 🏴‍☠️
 
 ## Multiplatform
