@@ -6,6 +6,8 @@ A collection of useful and cool repos I found
 - 🔍 = Not tested
 - 🏴‍☠️ = Of questionable legality 😉
 - 🛑 = Discontinued (No longer maintained)
+- <img src="assets/telegram.svg" alt="Telegram" width="16" height="16"> = Telegram Channel
+- 📦 = Collection
 
 ## Index
 - [AI](#ai)
