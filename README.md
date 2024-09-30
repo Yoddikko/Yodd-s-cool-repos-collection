@@ -1,5 +1,5 @@
 # Yodd's Cool Repos Collection
-A collection of useful and cool repos, channels and channels I found
+A collection of useful and cool repos, sites and channels I found
 
 ## Legend
 - 🏆 = Tested and personally recommended
@@ -8,6 +8,7 @@ A collection of useful and cool repos, channels and channels I found
 - 🛑 = Discontinued (No longer maintained)
 - <img src="assets/telegram.svg" alt="Telegram" width="16" height="16"> = Telegram Channel
 - 📦 = Collection
+- 🌐 = Website
 
 ## Index
 - [AI](#ai)
@@ -58,12 +59,12 @@ A collection of useful and cool repos, channels and channels I found
 ### Sideload
 - [AltStore](https://github.com/altstoreio/AltStore): An alternative app store for iOS that allows you to sideload apps without jailbreak. 🏆
 ### YouTube Tweaked IPAs 🏴‍☠️
-- [uYouEnhanced](https://github.com/arichornloverALT/uYouEnhanced): Enhanced version of the YouTube app. 🏆
-- [uYou-for-YouTube OG](https://github.com/MiRO92/uYou-for-YouTube-OG): Original version of the uYou app. 🏆
-- [uYouPlus](https://github.com/qnblackcat/uYouPlus): A modified version of the uYou app.
-- [uYouPlus & uYouEnhanced IPA Files](https://t.me/uyouplusipa): YouPlus (or uYou+), uYouEnhanced & YTMusicUltimate IPAs <img src="assets/telegram.svg" alt="Telegram" width="16" height="16"> 📦
-- [YouTubeRebornPlus (Not updated anymore)](https://github.com/arichornlover/YouTubeRebornPlus): An older YouTube mod, no longer maintained. 🛑
-- [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus): A lightweight version of the YouTube app.
+- [uYouEnhanced](https://github.com/arichornloverALT/uYouEnhanced): Enhanced version of the YouTube app. 🏴‍☠️ 🏆
+- [uYou-for-YouTube OG](https://github.com/MiRO92/uYou-for-YouTube-OG): Original version of the uYou app. 🏴‍☠️ 🏆
+- [uYouPlus](https://github.com/qnblackcat/uYouPlus): A modified version of the uYou app. 🏴‍☠️
+- [uYouPlus & uYouEnhanced IPA Files](https://t.me/uyouplusipa): YouPlus (or uYou+), uYouEnhanced & YTMusicUltimate IPAs 🏴‍☠️ <img src="assets/telegram.svg" alt="Telegram" width="16" height="16"> 📦 
+- [YouTubeRebornPlus (Not updated anymore)](https://github.com/arichornlover/YouTubeRebornPlus): An older YouTube mod, no longer maintained. 🛑 🏴‍☠️
+- [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus): A lightweight version of the YouTube app. 🏴‍☠️
 
 ## Kindle
 ### OS
@@ -74,9 +75,9 @@ A collection of useful and cool repos, channels and channels I found
 ## Linux
 
 ## Media Download
-### Books
-- [Anna’s Archive](https://annas-archive.org): A free, non-profit and open-source catalog of books, papers, and other documents. 🏴‍☠️ 🏆
-- [Z-Library](https://singlelogin.re): One of the largest online libraries, providing free access to books and academic papers. 🏴‍☠️
+### Books 🏴‍☠️
+- [Anna’s Archive](https://annas-archive.org): A free, non-profit and open-source catalog of books, papers, and other documents. 🌐 🏴‍☠️ 🏆
+- [Z-Library](https://singlelogin.re): One of the largest online libraries, providing free access to books and academic papers. 🌐 🏴‍☠️
 
 ## Multiplatform
 ### Audio Tools
@@ -91,4 +92,8 @@ A collection of useful and cool repos, channels and channels I found
 
 ## Self-Hosting
 - [Immich](https://github.com/immich-app/immich): A self-hosted photo and video backup solution for personal use. 🔍
+
+## Streaming sites 🏴‍☠️
+### Italians 🏴‍☠️
+- [SteramingCommunity](StreamingCommunity.compputer): Italian site to watch movies and TV shows. 🌐 🏴‍☠️ 🏆 
 
