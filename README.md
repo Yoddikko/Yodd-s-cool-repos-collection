@@ -1,4 +1,4 @@
-# Yodd-s-cool-repos-collection
+# Yodd's Cool Repos Collection
 A collection of useful and cool repos I found
 
 ## Legend
@@ -10,6 +10,8 @@ A collection of useful and cool repos I found
 ## Indice
 - [iOS](#ios)
   - [YouTube Tweaked IPAs 🏴‍☠️](#youtube-tweaked-ipas-)
+- [Android](#android)
+  - [Music Apps](#music-apps)
 - [Kindle](#kindle)
   - [Tools](#tools)
   - [OS](#os)
@@ -34,6 +36,10 @@ A collection of useful and cool repos I found
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): A modified version of the uYou app.
 - [YouTubeRebornPlus (Not updated anymore)](https://github.com/arichornlover/YouTubeRebornPlus): An older YouTube mod, no longer maintained. 🛑
 - [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus): A lightweight version of the YouTube app.
+
+## Android
+### Spotify Tweaked APKs 🏴‍☠️
+- [xManager](https://github.com/Team-xManager/xManager): A modded Spotify manager for Android. 🏴‍☠️ 
 
 ## Kindle
 ### Tools 
