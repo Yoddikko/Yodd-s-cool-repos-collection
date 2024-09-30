@@ -7,7 +7,7 @@ A collection of useful and cool repos I found
 - 🏴‍☠️ = Of questionable legality 😉
 - 🛑 = Discontinued (No longer maintained)
 
-## Indice
+## Index
 - [iOS](#ios)
   - [YouTube Tweaked IPAs 🏴‍☠️](#youtube-tweaked-ipas-)
 - [Android](#android)
