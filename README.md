@@ -25,6 +25,8 @@ A collection of useful and cool repos I found
   - [OS](#os)
   - [Tools](#tools)
 - [Linux](#linux)
+- [Media Download](#media-download)
+  - [Books](#books)
 - [Multiplatform](#multiplatform)
   - [Audio Tools](#audio-tools)
   - [Gaming Tools](#gaming-tools)
@@ -69,6 +71,11 @@ A collection of useful and cool repos I found
 - [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for jailbreaking. 🏴‍☠️
 
 ## Linux
+
+## Media Download
+### Books
+- [Anna’s Archive](https://annas-archive.org): A free, non-profit and open-source catalog of books, papers, and other documents. 🏴‍☠️
+- [Z-Library](https://singlelogin.re): One of the largest online libraries, providing free access to books and academic papers. 🏴‍☠️
 
 ## Multiplatform
 ### Audio Tools
