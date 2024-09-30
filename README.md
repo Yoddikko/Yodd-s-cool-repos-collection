@@ -61,9 +61,9 @@ A collection of useful and cool repos I found
 
 ## Kindle
 ### OS
-- [koreader](https://github.com/koreader/koreader): E-book reader application supporting multiple file formats.
+- [koreader](https://github.com/koreader/koreader): E-book reader OS supporting multiple file formats and plugins.
 ### Tools 
-- [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for language learning. 🏴‍☠️
+- [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for jailbreaking. 🏴‍☠️
 
 ## Linux
 
@@ -73,7 +73,7 @@ A collection of useful and cool repos I found
 ### Gaming Tools
 - [hydra](https://github.com/hydralauncher/hydra): A multi-platform Linux application launcher. 🏴‍☠️
 ### Movies and TV Shows 
-- [mirarr](https://github.com/mirarr-app/mirarr): A cross-platform mirroring application. 🏴‍☠️ 🔍 
+- [mirarr](https://github.com/mirarr-app/mirarr): A cross-platform streaming application. 🏴‍☠️ 🔍 
 
 ## Other
-- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): A collection of discounts and offers for students in development.
+- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): A collection of discounts and offers for students.
