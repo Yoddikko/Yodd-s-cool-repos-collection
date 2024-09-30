@@ -26,6 +26,7 @@ Since I'm italian the repo is also mainly focused on italian centered media.
 - [Kindle](#kindle)
   - [OS](#os)
   - [Tools](#tools)
+- [Lists](#lists)
 - [Linux](#linux)
 - [Media Download](#media-download)
   - [Books](#books)
@@ -73,6 +74,10 @@ Since I'm italian the repo is also mainly focused on italian centered media.
 ### Tools 
 - [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for jailbreaking. 🏴‍☠️
 
+## Lists
+- [r/piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/): Piracy megathread for useful links to all piracy related things 🌐 🏴‍☠️ 🏆
+- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): A collection of discounts and offers for students.
+
 ## Linux
 
 ## Media Download
@@ -89,7 +94,6 @@ Since I'm italian the repo is also mainly focused on italian centered media.
 - [mirarr](https://github.com/mirarr-app/mirarr): A cross-platform streaming application. 🏴‍☠️ 🔍 
 
 ## Other
-- [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): A collection of discounts and offers for students.
 
 ## Self-Hosting
 - [Immich](https://github.com/immich-app/immich): A self-hosted photo and video backup solution for personal use. 🔍
