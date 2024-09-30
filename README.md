@@ -32,6 +32,7 @@ A collection of useful and cool repos, channels and channels I found
   - [Gaming Tools](#gaming-tools)
   - [Movies and TV Shows](#movies-and-tv-shows)
 - [Other](#other)
+- [Self-Hosting](#self-hosting)
 
 ---
 
@@ -87,3 +88,7 @@ A collection of useful and cool repos, channels and channels I found
 
 ## Other
 - [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): A collection of discounts and offers for students.
+
+## Self-Hosting
+- [Immich](https://github.com/immich-app/immich): A self-hosted photo and video backup solution for personal use. 🔍
+
