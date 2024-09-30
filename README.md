@@ -1,7 +1,5 @@
 # Yodd-s-cool-repos-collection
 A collection of useful and cool repos I found
-# Yodd's Cool Repos Collection
-A collection of useful and cool repos I found
 
 ## Legend
 - 🏆 = Tested and personally recommended
