@@ -42,7 +42,7 @@ A collection of useful and cool repos I found
 ### Books APIs
 - [Zlibrary-API](https://github.com/bipinkrish/Zlibrary-API): An unofficial Python API for Z-Library. 🏴‍☠️ 🔍
 ### Gaming APIs
-- [CreamInstaller](https://github.com/pointfeev/CreamInstaller): An all-in-one application installer. 🏴‍☠️
+- [CreamInstaller](https://github.com/pointfeev/CreamInstaller): DLC downloader. 🏴‍☠️
 ### Movies and TV Shows APIs
 - [streamingcommunity-unofficialapi](https://github.com/Blu-Tiger/streamingcommunity-unofficialapi): An unofficial API for the Streaming Community platform. 🏴‍☠️🇮🇹 🔍
 
