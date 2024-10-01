@@ -1,7 +1,5 @@
 # Yodd's Cool Repos Collection
-A collection of useful and cool repos, sites and channels I found and that coincide with my interests.
-Since I'm italian the repo is also mainly focused on italian centered media.
-This list was recently created, that's why it's still mostly empty. 
+A collection of useful and cool repos, sites, and channels I found and that coincide with my interests. Since I'm Italian, the repo is also mainly focused on Italian-centered media. This list was recently created, which is why it's still mostly empty.
 
 ## Legend
 - 🏆 = Tested and personally recommended
@@ -26,7 +24,6 @@ This list was recently created, that's why it's still mostly empty.
   - [Sideload](#sideload)
   - [YouTube Tweaked IPAs 🏴‍☠️](#youtube-tweaked-ipas-)
 - [Kindle](#kindle)
-  - [OS](#os)
   - [Tools](#tools)
 - [Lists](#lists)
 - [Linux](#linux)
@@ -37,7 +34,10 @@ This list was recently created, that's why it's still mostly empty.
   - [Gaming Tools](#gaming-tools)
   - [Movies and TV Shows](#movies-and-tv-shows)
 - [Other](#other)
+- [OS](#os)
 - [Self-Hosting](#self-hosting)
+- [Streaming sites](#streaming-sites)
+  - [Italians](#italians)
 
 ---
 
@@ -66,7 +66,7 @@ This list was recently created, that's why it's still mostly empty.
 ### Sideload
 - [AltStore](https://github.com/altstoreio/AltStore): An alternative app store for iOS that allows you to sideload apps without jailbreak. 🏆
 - [AppDb](https://appdb.to): Trusted IPA collection 🌐 📦 🔍
-- [CyPawn]([https://appdb.to](https://ipa.cypwn.xyz/)): Another trusted IPA collection 🌐 📦
+- [CyPawn](https://ipa.cypwn.xyz/): Another trusted IPA collection 🌐 📦
 
 ### YouTube Tweaked IPAs 🏴‍☠️
 - [uYouEnhanced](https://github.com/arichornloverALT/uYouEnhanced): Enhanced version of the YouTube app. 🏴‍☠️ 🏆
@@ -77,8 +77,6 @@ This list was recently created, that's why it's still mostly empty.
 - [YTLitePlus](https://github.com/YTLitePlus/YTLitePlus): Yet another tweaked version of the YouTube app. 🏴‍☠️
 
 ## Kindle
-### OS
-- [koreader](https://github.com/koreader/koreader): E-book reader OS supporting multiple file formats and plugins.
 ### Tools 
 - [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for jailbreaking. 🏴‍☠️
 
@@ -103,10 +101,12 @@ This list was recently created, that's why it's still mostly empty.
 
 ## Other
 
+## OS
+- [koreader](https://github.com/koreader/koreader): E-book reader OS supporting multiple file formats and plugins.
+
 ## Self-Hosting
 - [Immich](https://github.com/immich-app/immich): A self-hosted photo and video backup solution for personal use. 🔍
 
 ## Streaming sites 🏴‍☠️
 ### Italians 🏴‍☠️
-- [SteramingCommunity](StreamingCommunity.compputer): Italian site to watch movies and TV shows. 🌐 🏴‍☠️ 🏆 
-
+- [StreamingCommunity](https://StreamingCommunity.computer): Italian site to watch movies and TV shows. 🌐 🏴‍☠️ 🏆 
