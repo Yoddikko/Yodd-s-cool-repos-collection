@@ -97,7 +97,7 @@ This list was recently created, that's why it's still mostly empty.
 ### Audio Tools
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): Convert Audible AAX files to MP3. 🏴‍☠️
 ### Gaming Tools
-- [hydra](https://github.com/hydralauncher/hydra): A multi-platform Linux application launcher. 🏴‍☠️
+- [hydra](https://github.com/hydralauncher/hydra): A multi-platform games launcher with torrenting function. 🏴‍☠️
 ### Movies and TV Shows 
 - [mirarr](https://github.com/mirarr-app/mirarr): A cross-platform streaming application. 🏴‍☠️ 🔍 
 
