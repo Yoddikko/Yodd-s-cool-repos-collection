@@ -112,7 +112,7 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 ### Italians 🏴‍☠️
 - [StreamingCommunity](https://StreamingCommunity.computer): Italian site to watch movies and TV shows. 🌐 🏴‍☠️ 🏆
 
-- ## Disclaimer
+## Disclaimer
 
 > **This repository is created for educational purposes only.** It contains links to various resources available on the internet. The author does **not condone, promote, or encourage** any illegal activities, including piracy or copyright infringement.
 
