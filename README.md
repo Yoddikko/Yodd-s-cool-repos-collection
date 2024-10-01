@@ -62,7 +62,7 @@ Since I'm italian the repo is also mainly focused on italian centered media.
 - [AltStore](https://github.com/altstoreio/AltStore): An alternative app store for iOS that allows you to sideload apps without jailbreak. 🏆
 ### YouTube Tweaked IPAs 🏴‍☠️
 - [uYouEnhanced](https://github.com/arichornloverALT/uYouEnhanced): Enhanced version of the YouTube app. 🏴‍☠️ 🏆
-- [uYou-for-YouTube OG](https://github.com/MiRO92/uYou-for-YouTube-OG): Original version of the uYou app. 🏴‍☠️ 🏆
+- [uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube-OG): Original version of the uYou app. 🏴‍☠️ 🏆
 - [uYouPlus](https://github.com/qnblackcat/uYouPlus): A modified version of the uYou app. 🏴‍☠️
 - [uYouPlus & uYouEnhanced IPA Files](https://t.me/uyouplusipa): YouPlus (or uYou+), uYouEnhanced & YTMusicUltimate IPAs 🏴‍☠️ <img src="assets/telegram.svg" alt="Telegram" width="16" height="16"> 📦 
 - [YouTubeRebornPlus (Not updated anymore)](https://github.com/arichornlover/YouTubeRebornPlus): An older YouTube mod, no longer maintained. 🛑 🏴‍☠️
