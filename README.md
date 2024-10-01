@@ -125,7 +125,7 @@ All the links provided here are meant to serve as information, and **the user is
 Please note that some of the linked content may be subject to copyright or other legal restrictions in certain jurisdictions.
 
 ### For Copyright Holders
-> **If you are a copyright owner** or an agent thereof and believe that any of the content linked in this repository infringes on your copyright, please [contact us](mailto:your-email@example.com) for removal.
+> **If you are a copyright owner** or an agent thereof and believe that any of the content linked in this repository infringes on your copyright, please [contact me](mailto:github.22n2d@aleeas.com) for removal.
 
 ---
 
