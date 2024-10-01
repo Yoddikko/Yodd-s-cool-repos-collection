@@ -60,6 +60,8 @@ Since I'm italian the repo is also mainly focused on italian centered media.
 ## iOS
 ### Sideload
 - [AltStore](https://github.com/altstoreio/AltStore): An alternative app store for iOS that allows you to sideload apps without jailbreak. 🏆
+- [AppDb](https://appdb.to): Trusted IPA collection 🌐 📦
+
 ### YouTube Tweaked IPAs 🏴‍☠️
 - [uYouEnhanced](https://github.com/arichornloverALT/uYouEnhanced): Enhanced version of the YouTube app. 🏴‍☠️ 🏆
 - [uYou-for-YouTube](https://github.com/MiRO92/uYou-for-YouTube-OG): Original version of the uYou app. 🏴‍☠️ 🏆
