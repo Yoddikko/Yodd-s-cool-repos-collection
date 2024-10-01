@@ -21,6 +21,7 @@ Since I'm italian the repo is also mainly focused on italian centered media.
   - [Movies and TV Shows APIs](#movies-and-tv-shows-apis)
 - [Extensions](#extensions)
 - [iOS](#ios)
+  - [Open source apps](#open-source-apps)
   - [Sideload](#sideload)
   - [YouTube Tweaked IPAs 🏴‍☠️](#youtube-tweaked-ipas-)
 - [Kindle](#kindle)
@@ -58,6 +59,9 @@ Since I'm italian the repo is also mainly focused on italian centered media.
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip sponsors in YouTube videos. 🏆
 
 ## iOS
+### Open source apps
+- [Medito](https://github.com/meditohq/medito-app): Meditation app
+
 ### Sideload
 - [AltStore](https://github.com/altstoreio/AltStore): An alternative app store for iOS that allows you to sideload apps without jailbreak. 🏆
 - [AppDb](https://appdb.to): Trusted IPA collection 🌐 📦 🔍
