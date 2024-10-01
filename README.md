@@ -26,6 +26,7 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 - [Kindle](#kindle)
   - [Tools](#tools)
 - [Learning](#learning)
+  - [Programming](#programming)
 - [Lists](#lists)
 - [Linux](#linux)
 - [Media Download](#media-download)
@@ -83,7 +84,7 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 - [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for jailbreaking. 🏴‍☠️
 
 ## Learning
--  
+### Programming
 - [freecodecamp](https://www.freecodecamp.org/): Website with many programming courses 🌐 🏆
 ## Lists
 - [r/piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/): Piracy megathread for useful links to all piracy related things 🌐 🏴‍☠️ 🏆
