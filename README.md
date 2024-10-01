@@ -25,6 +25,7 @@ A collection of useful and cool repos, sites, and channels I found and that coin
   - [YouTube Tweaked IPAs 🏴‍☠️](#youtube-tweaked-ipas-)
 - [Kindle](#kindle)
   - [Tools](#tools)
+- [Learning](#learning)
 - [Lists](#lists)
 - [Linux](#linux)
 - [Media Download](#media-download)
@@ -81,6 +82,9 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 ### Tools 
 - [LanguageBreak](https://github.com/notmarek/LanguageBreak): A Kindle tool for jailbreaking. 🏴‍☠️
 
+## Learning
+-  
+- [freecodecamp](https://www.freecodecamp.org/): Website with many programming courses 🌐 🏆
 ## Lists
 - [r/piracy Megathread](https://www.reddit.com/r/Piracy/wiki/megathread/): Piracy megathread for useful links to all piracy related things 🌐 🏴‍☠️ 🏆
 - [discount-for-student-dev](https://github.com/AchoArnold/discount-for-student-dev): A collection of discounts and offers for students.
