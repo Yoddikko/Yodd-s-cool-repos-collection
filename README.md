@@ -113,9 +113,20 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 - [StreamingCommunity](https://StreamingCommunity.computer): Italian site to watch movies and TV shows. 🌐 🏴‍☠️ 🏆
 
 - ## Disclaimer
-This repository is created for **educational purposes only**. It contains links to various resources available on the internet. The author does not condone, promote, or encourage any illegal activities, including piracy or copyright infringement. 
 
-All the links provided here are meant to serve as information, and the user is responsible for their actions while accessing these resources. It is advised to use these resources in compliance with applicable laws. Please note that some of the linked content may be subject to copyright or other legal restrictions in certain jurisdictions.
+> **This repository is created for educational purposes only.** It contains links to various resources available on the internet. The author does **not condone, promote, or encourage** any illegal activities, including piracy or copyright infringement.
 
-**If you are a copyright owner** or an agent thereof and believe that any of the content linked in this repository infringes your copyright, please contact us for removal.
+---
 
+### User Responsibility
+All the links provided here are meant to serve as information, and **the user is responsible for their actions** while accessing these resources. It is strongly advised to use these resources in compliance with **applicable laws**.
+
+### Copyright Infringement
+Please note that some of the linked content may be subject to copyright or other legal restrictions in certain jurisdictions.
+
+### For Copyright Holders
+> **If you are a copyright owner** or an agent thereof and believe that any of the content linked in this repository infringes on your copyright, please [contact us](mailto:your-email@example.com) for removal.
+
+---
+
+❗ **Note:** Use this repository **at your own risk**. The author does not guarantee the legality, safety, or accuracy of the linked content.
