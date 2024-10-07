@@ -61,6 +61,7 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 
 ## Extensions
 - [SponsorBlock](https://github.com/ajayyy/SponsorBlock): Skip sponsors in YouTube videos. 🏆
+- [uBlock Origin](https://github.com/gorhill/uBlock): The only adblocker you need. 🏆
 
 ## iOS
 ### Open source apps
