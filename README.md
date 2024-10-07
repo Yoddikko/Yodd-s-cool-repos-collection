@@ -103,6 +103,7 @@ A collection of useful and cool repos, sites, and channels I found and that coin
 - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3): Convert Audible AAX files to MP3. 🏴‍☠️
 ### Gaming Tools
 - [hydra](https://github.com/hydralauncher/hydra): A multi-platform games launcher with torrenting function. 🏴‍☠️
+- [PrismLauncher](https://github.com/PrismLauncher/PrismLauncher): Minecraft launcher to easly manage different versions and mods 🏆
 ### Movies and TV Shows 
 - [mirarr](https://github.com/mirarr-app/mirarr): A cross-platform streaming application. 🏴‍☠️ 🔍 
 
